@@ -1,0 +1,9 @@
+Write a program to check whether a given relation is true for a given pair of numbers.
+
+Input
+
+You are provided with an unknown number of test cases. Each test case consists of a natural number, which is followed by a white space, relational operator (==, !=, >= or <=), white space, and another natural number. All test cases are separated with a new line character. You can assume that no number has more than 1000 digits.
+
+Output
+
+A binary sequence should appear as the output. ith element of the sequence should be equal to 1 or 0, depending on whether the corresponding relation is true or false. All elements of the sequence should be separated with a new line character.
